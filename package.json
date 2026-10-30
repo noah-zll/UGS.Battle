@@ -1,0 +1,21 @@
+{
+  "name": "com.ugs.battle",
+  "version": "0.1.0",
+  "displayName": "UGS.Battle",
+  "description": "A gameplay-agnostic battle framework: attributes, effects, skills, damage pipeline, factions, battle sessions and tactics.",
+  "unity": "2021.3",
+  "keywords": [
+    "battle",
+    "combat",
+    "attribute",
+    "buff",
+    "skill",
+    "damage",
+    "framework"
+  ],
+  "author": {
+    "name": "Noah",
+    "email": "noah-zhou@qq.com",
+    "url": "https://github.com/noah-zll?tab=repositories"
+  }
+}
